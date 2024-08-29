@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sameer Aijaz and I'm a Software Engineer, from Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Usama Abdul Khalique and I'm a Software Engineer, from Pakistan</h2>
 
 ###
 
